@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "test markdown"
+date:   2021-10-17 00:47:43 +0700
+categories: story
+---
+
+Test thử xem cái dòng markdown trong theme minimal này dài bao nhiêu ở cái màn hình 24 inch này :smile đã đủ dài để ngắt dòng chưa hả ?
+
