@@ -16,7 +16,7 @@ Chắc bắt đầu bằng việc miêu tả cảnh bầu trời đêm 12h đêm
 
 Khó vcl ra.
 
-![hanoi_6h30_toi_mua_he](/assets/img/IMG_20210817_183537.jpg "Hà Nội mùa hè 2021 6h30 tối")
+![hanoi_6h30_toi_mua_he](/personal-note/assets/img/IMG_20210817_183537.jpg "Hà Nội mùa hè 2021 6h30 tối")
 
 
 
